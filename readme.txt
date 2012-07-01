@@ -3,7 +3,7 @@ Contributors: danielsummers
 Tags: prayer, guide
 Requires at least: 3.2
 Tested up to: 3.4.1
-Stable tag: trunk
+Stable tag: 2012.0
 
 This plugin provides the daily or hourly prayer guides for the 40/40 Prayer Vigil (English) and 40/40 Campaña de
 Oración (Español).
